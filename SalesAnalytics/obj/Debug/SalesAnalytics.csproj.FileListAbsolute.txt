@@ -1,0 +1,9 @@
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\bin\Debug\SalesAnalytics.exe.config
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\bin\Debug\SalesAnalytics.exe
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\bin\Debug\SalesAnalytics.pdb
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.Properties.Resources.resources
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.exe
+C:\Users\artem\source\repos\SalesAnalytics\SalesAnalytics\obj\Debug\SalesAnalytics.pdb
